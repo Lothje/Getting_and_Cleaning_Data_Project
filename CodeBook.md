@@ -4,8 +4,8 @@
 
 The input files for this project are:
 
-* features.txt A 561-feature vector with time and frequency domain variables (column names)
-* activity_labels.txt Activity label that goes with the activity id
+* features.txt: A 561-feature vector with time and frequency domain variables (column names)
+* activity_labels.txt: Activity label that goes with the activity id
 * train_X.txt: Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration and Triaxial Angular velocity from the gyroscope for the training group.
 * train_Y.txt: Activity id's
 * subject_train.txt: Identifier of the training subject
