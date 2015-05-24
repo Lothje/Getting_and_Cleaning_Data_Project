@@ -1,4 +1,4 @@
-# Course project for course Getting and Cleaning data
+# Course project for Getting and Cleaning data
 ## Assignment
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
