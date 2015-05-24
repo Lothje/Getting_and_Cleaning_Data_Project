@@ -32,11 +32,11 @@ You should create one R script called run_analysis.R that does the following:
 
 ## Content of the repository
 
-This repository contains the files required.
+This repository contains the followoing files.
 
 * README.md: this description
 * run_analysis.R: R script to generate the tidy datasets
-* CodeBook.md: file with a description of the variables, data and the working of the run_analysis.R script
+* CodeBook.md: file with a description of the variables, data and the working of the run_analysis.R script. Please, refer tot this file of the description of the steps for tidying the data.
 * Tidy_dataset1.txt: tidy data set
 * Tidy_dataset2.txt: tidy data set
 
