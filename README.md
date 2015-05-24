@@ -37,5 +37,6 @@ This repository contains the files required.
 * README.md: this description
 * run_analysis.R: R script to generate the tidy datasets
 * CodeBook.md: file with a description of the variables, data and the working of the run_analysis.R script
-* Tidy_dataset2.txt: tidy dataset
+* Tidy_dataset1.txt: tidy data set
+* Tidy_dataset2.txt: tidy data set
 
