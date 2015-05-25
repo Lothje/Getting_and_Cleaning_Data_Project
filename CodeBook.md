@@ -42,4 +42,4 @@ Use as base the first tidy data set and group them together by activity and subj
 ## Output files
 
 * Tidy_dataset1.txt: first tidy data set after step 4.
-* Tidy_dataset2.txt: second tidy data set after step 5.
+* Tidy_dataset2.txt: second tidy data set after step 5. These consists of averages for every variable.
